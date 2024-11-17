@@ -1,49 +1,49 @@
-# Odoo开发手册
+# Odoo Development Manual
 
 
 
-## Odoo 15开发手册目录
+## Odoo 15 Development Manual Contents
 
-* [第一章 使用开发者模式快速入门 Odoo 15](1.md)
-* [第二章 Odoo 15开发之开发环境准备](2.md)
-* [第三章 Odoo 15开发之创建第一个 Odoo 应用](3.md)
-* [第四章 Odoo 15开发之模块继承](4.md)
-* [第五章 Odoo 15开发之导入、导出以及模块数据](5.md)
-* [第六章 Odoo 15开发之模型 - 结构化应用数据](6.md)
-* [第七章 Odoo 15开发之记录集 - 使用模型数据](7.md)
-* [第八章 Odoo 15开发之业务逻辑 - 业务流程的支持](8.md)
-* [第九章 Odoo 15开发之外部 API - 集成第三方系统](9.md)
+* [Chapter 1: Getting Started with Odoo 15 Using Developer Mode](1.md)
+* [Chapter 2 Odoo 15 Development Environment Preparation](2.md)
+* [Chapter 3 Odoo 15 Development: Creating the First Odoo Application](3.md)
+* [Chapter 4 Odoo 15 Development Module Inheritance](4.md)
+* [Chapter 5 Odoo 15 Development: Import, Export and Module Data](5.md)
+* [Chapter 6 Odoo 15 Development Model - Structured Application Data](6.md)
+* [Chapter 7 Odoo 15 Development Record Set - Using Model Data](7.md)
+* [Chapter 8 Business Logic of Odoo 15 Development - Business Process Support](8.md)
+* [Chapter 9 External API Development in Odoo 15 - Integrating Third-Party Systems](9.md)
 
-代码地址：[Source Code](./source-code/)
+Source Code: [Source Code](./source-code/)
 
-## Odoo 12开发手册目录
+## Odoo 12 Development Manual Contents
 
-* 第一章 [使用开发者模式快速入门 Odoo 12](https://github.com/iTranslateX/odoo-essentials/tree/v12/1.md)
+* Chapter 1 [Quick Start Odoo 12 Using Developer Mode](https://github.com/iTranslateX/odoo-essentials/tree/v12/1.md)
 
-* 第二章 [Odoo 12开发之开发环境准备](https://github.com/iTranslateX/odoo-essentials/tree/v12/2.md)
+* Chapter 2 [Development Environment Preparation for Odoo 12 Development](https://github.com/iTranslateX/odoo-essentials/tree/v12/2.md)
 
-* 第三章 [Odoo 12 开发之创建第一个 Odoo 应用](https://github.com/iTranslateX/odoo-essentials/tree/v12/3.md)
+* Chapter 3 [Odoo 12 Development: Creating the First Odoo Application](https://github.com/iTranslateX/odoo-essentials/tree/v12/3.md)
 
-* 第四章 [Odoo 12 开发之模块继承](https://github.com/iTranslateX/odoo-essentials/tree/v12/4.md)
+* Chapter 4 [Module inheritance in Odoo 12 development](https://github.com/iTranslateX/odoo-essentials/tree/v12/4.md)
 
-* 第五章 [Odoo 12开发之导入、导出以及模块数据](https://github.com/iTranslateX/odoo-essentials/tree/v12/5.md)
+* Chapter 5 [Odoo 12 Development: Import, Export and Module Data](https://github.com/iTranslateX/odoo-essentials/tree/v12/5.md)
 
-* 第六章 [Odoo 12开发之模型 - 结构化应用数据](https://github.com/iTranslateX/odoo-essentials/tree/v12/6.md)
+* Chapter 6 [Odoo 12 Development Model - Structured Application Data](https://github.com/iTranslateX/odoo-essentials/tree/v12/6.md)
 
-* 第七章 [Odoo 12开发之记录集 - 使用模型数据](https://github.com/iTranslateX/odoo-essentials/tree/v12/7.md)
+* Chapter 7 [Recordset Development in Odoo 12 - Using Model Data](https://github.com/iTranslateX/odoo-essentials/tree/v12/7.md)
 
-* 第八章 [Odoo 12开发之业务逻辑 - 业务流程的支持](https://github.com/iTranslateX/odoo-essentials/tree/v12/8.md)
+* Chapter 8 [Business Logic of Odoo 12 Development - Business Process Support](https://github.com/iTranslateX/odoo-essentials/tree/v12/8.md)
 
-* 第九章 [Odoo 12开发之外部 API - 集成第三方系统](https://github.com/iTranslateX/odoo-essentials/tree/v12/9.md)
+* Chapter 9 [External API for Odoo 12 Development - Integrating Third-Party Systems](https://github.com/iTranslateX/odoo-essentials/tree/v12/9.md)
 
-* 第十章 [Odoo 12开发之后台视图 - 设计用户界面](https://github.com/iTranslateX/odoo-essentials/tree/v12/10.md)
+* Chapter 10 [Odoo 12 Development Background View - Design User Interface](https://github.com/iTranslateX/odoo-essentials/tree/v12/10.md)
 
-* 第十一章 [Odoo 12开发之看板视图和用户端 QWeb](https://github.com/iTranslateX/odoo-essentials/tree/v12/11.md)
+* Chapter 11 [Odoo 12 Development of Dashboard View and User-side QWeb](https://github.com/iTranslateX/odoo-essentials/tree/v12/11.md)
 
-* 第十二章 [Odoo 12开发之报表和服务端 QWeb](https://github.com/iTranslateX/odoo-essentials/tree/v12/12.md)
+* Chapter 12 [Odoo 12 Development Report and Server-side QWeb](https://github.com/iTranslateX/odoo-essentials/tree/v12/12.md)
 
-* 第十三章 [Odoo 12开发之创建网站前端功能](https://github.com/iTranslateX/odoo-essentials/tree/v12/13.md)
+* Chapter 13 [Odoo 12 Development: Creating Website Front-end Functions](https://github.com/iTranslateX/odoo-essentials/tree/v12/13.md)
 
-* 第十四章 [Odoo 12开发之部署和维护生产实例](https://github.com/iTranslateX/odoo-essentials/tree/v12/14.md)
+* Chapter 14 [Odoo 12 Development: Deployment and Maintenance of Production Instances](https://github.com/iTranslateX/odoo-essentials/tree/v12/14.md)
 
-代码地址：[Source Code](https://github.com/iTranslateX/odoo-essentials/tree/v12/source-code)
+Source Code: [Source Code](https://github.com/iTranslateX/odoo-essentials/tree/v12/source-code)
